@@ -1,4 +1,5 @@
 {
   "name": "ESP32 Gyroscope",
-  "version": "0.0.0+20210217210157"
+  "keywords": "gyroscope, accelerometer, sensor, i2cdevlib, i2c, mpu"
+  
 }
